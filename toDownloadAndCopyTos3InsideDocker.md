@@ -3,7 +3,7 @@
 ## 1. clone git-repo, and then pull and run docker container
 
 ```
-git clone git@github-raaz:lamastex/FX-1-Minute-Data.git
+git clone git@github.com:lamastex/FX-1-Minute-Data.git 
 docker pull lamastex/python-findata
 docker run --rm  -it --mount type=bind,source=${PWD},destination=/root/GIT lamastex/python-findata /bin/bash
 ```

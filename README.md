@@ -20,7 +20,13 @@ Retrieval made easy for 1-minute (and tick data). Source: http://histdata.com/.
 
 ## Dataset 1M from early 2000 to June 2019
 
-Available here: [2000-Jun2019](2000-Jun2019). Due to Github repository space limit policies, we will stop publishing the updated dataset on Github. Refer to the section [Re-download the dataset of the repository](#re-download-the-dataset-of-the-repository) to generate your own.
+This dataset is removed from this fork permanently as it is too large and unnecessary as it can be downloaded.
+
+This dataset is still available from
+Available here: [https://github.com/philipperemy/FX-1-Minute-Data/tree/master/2000-Jun2019](https://github.com/philipperemy/FX-1-Minute-Data/tree/master/2000-Jun2019). 
+Due to Github repository space limit policies, they have stopped publishing the updated dataset on [the original repository on Github](https://github.com/philipperemy/FX-1-Minute-Data/). 
+Refer to the section [Re-download the dataset of the repository](#re-download-the-dataset-of-the-repository) to generate your own.
+Also see [how to download and copy to s3 and develop inside docker container](https://github.com/lamastex/FX-1-Minute-Data/blob/master/toDownloadAndCopyTos3InsideDocker.md).
 
 
 ## API
